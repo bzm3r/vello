@@ -14,6 +14,7 @@
 //
 // Also licensed under MIT license, at your choice.
 
+mod cpu_fallback;
 mod engine;
 mod render;
 mod scene;
